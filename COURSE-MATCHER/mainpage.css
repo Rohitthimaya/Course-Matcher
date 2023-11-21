@@ -1,0 +1,14 @@
+#sidebar{
+    background-color: black;
+    border: 2px solid slategray;
+}
+
+#title-section{
+    text-align: center;
+}
+
+.nav-item > button{
+    display: block;
+    width: 100%;
+    margin-bottom: 30px;
+}
